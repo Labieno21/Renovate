@@ -3577,16 +3577,6 @@
                 ]
             }
         },
-        "woodpecker": {
-            "description": "Configuration object for the woodpecker manager",
-            "type": "object",
-            "default": {
-                "fileMatch": [
-                    "^\\.woodpecker(?:/[^/]+)?\\.ya?ml$"
-                ]
-            },
-            "$ref": "#"
-        },
         "writeDiscoveredRepos": {
             "description": "Writes discovered repositories to a JSON file and then exit.",
             "type": "string"
