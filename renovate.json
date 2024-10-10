@@ -1701,10 +1701,7 @@
             "items": {
                 "type": "string"
             },
-            "default": [
-                "**/node_modules/**",
-                "**/bower_components/**"
-            ]
+            "default": []
         },
         "ignorePlugins": {
             "description": "Set this to `true` if `allowPlugins=true` but you wish to skip running plugins when updating lock files.",
