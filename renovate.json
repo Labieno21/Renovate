@@ -1,6 +1,6 @@
 {
     "title": "JSON schema for Renovate config files (https://renovatebot.com/)",
-    "$schema": "http://json-schema.org/draft-02/schema#",
+    "$schema": "http://json-schema.org/draft-01/schema#",
     "type": "object",
     "properties": {
         "addLabels": {
